@@ -7,6 +7,8 @@
 >  
 > That's exactly what **AttritionIQ** does.
 
+🔗 **Live Demo:** [employee-attrition-predictor.netlify.app](https://employee-attrition-predictor.netlify.app)
+
 ---
 
 ## What This Is
